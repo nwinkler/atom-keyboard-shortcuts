@@ -19,10 +19,25 @@ Some general keyboard shortcuts that I use frequently.
 | Grammar Selector | `ctrl-shift-l` |  |  |  |
 | Markdown Preview | `ctrl-shift-m` |  |  |  |
 | Key Binding Resolver | `cmd-.` |  |  |  |
+| Toggle Tree View | `cmd-k cmd-b` |  |  |  |
+| Reload Atom | `cmd-ctrl-alt-l` |  |  |  |
 
 ## Editing
 
+| Command | Mac OS X | Windows | Linux | Description |
+| ------- | -------- | ------- | ----- | ----------- |
+| Duplicate Lines | `cmd-shift-d` |  |  |  |
+| Delete Line | `ctrl-shift-k` |  |  |  |
+| Move Line Up | `cmd-ctrl-up` |  |  |  |
+| Move Line Down | `cmd-ctrl-down` |  |  |  |
+
 ## Git
+
+Git Functionality provided by the [Git Plus](https://atom.io/packages/git-plus) package.
+
+| Command | Mac OS X | Windows | Linux | Description |
+| ------- | -------- | ------- | ----- | ----------- |
+| Git Plus Menu | `cmd-shift-h,` | `ctrl-shift-h`| `ctrl-shift-h` |  |
 
 ## Various Packages
 
