@@ -44,7 +44,7 @@ These are some packages I find useful, and their most useful key bindings.
 | ------- | -------- | ------- | ----- | ----------- |
 | Block Travel up/down | `alt-up`, `alt-down` |  |  | [Block Travel](https://atom.io/packages/block-travel) |
 | Bookmarklet | `ctrl-alt-b` |  |  | [Bookmarklet](https://atom.io/packages/bookmarklet) |
-| Git Plus Menu | `cmd-shift-h,` | `ctrl-shift-h` | `ctrl-shift-h` | [Git Plus](https://atom.io/packages/git-plus) |
+| Git Plus Menu | `cmd-shift-h` | `ctrl-shift-h` | `ctrl-shift-h` | [Git Plus](https://atom.io/packages/git-plus) |
 | Jumpy | `shift-enter` |  |  | [Jumpy](https://atom.io/packages/jumpy) |
 | Minimap Toggle | `ctrl-k ctrl-m` |  |  | [Minimap](https://atom.io/packages/minimap) |
 | Open File in Browser | `ctrl-alt-m` |  |  | [Open in Browser](https://atom.io/packages/open-in-browser) |
