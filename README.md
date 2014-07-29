@@ -22,6 +22,7 @@ Some general keyboard shortcuts that I use frequently.
 | Toggle Tree View | `cmd-k cmd-b` |  |  |  |
 | Reload Atom | `cmd-ctrl-alt-l` |  |  |  |
 | Open Link | `ctrl-shift-o` |  |  |  |
+| Toggle Developer Tools | `cmd-alt-i` |  |  |  |
 
 ## Editing
 
@@ -35,27 +36,20 @@ Some general keyboard shortcuts that I use frequently.
 | Find Next | `cmd-g` |  |  |  |
 | Go To Line | `ctrl-g` |  |  |  |
 
-## Git
-
-Git Functionality provided by the [Git Plus](https://atom.io/packages/git-plus) package.
-
-| Command | Mac OS X | Windows | Linux | Description |
-| ------- | -------- | ------- | ----- | ----------- |
-| Git Plus Menu | `cmd-shift-h,` | `ctrl-shift-h`| `ctrl-shift-h` |  |
-
 ## Various Packages
 
 These are some packages I find useful, and their most useful key bindings.
 
 | Command | Mac OS X | Windows | Linux | Package |
 | ------- | -------- | ------- | ----- | ----------- |
-| Block Travel up/down | `alt-up`, `alt-down` |  |  | https://atom.io/packages/block-travel |
-| Bookmarklet | `ctrl-alt-b` |  |  | https://atom.io/packages/bookmarklet |
-| Jumpy | `shift-enter` |  |  | https://atom.io/packages/jumpy |
-| Minimap Toggle | `ctrl-k ctrl-m` |  |  | https://atom.io/packages/minimap |
-| Open File in Browser | `ctrl-alt-m` |  |  | https://atom.io/packages/open-in-browser |
-| Run Script | `cmd-i` |  |  | https://atom.io/packages/script |
-| Open Terminal | `ctrl-alt-t` |  |  | https://atom.io/packages/term2 |
+| Block Travel up/down | `alt-up`, `alt-down` |  |  | [Block Travel](https://atom.io/packages/block-travel) |
+| Bookmarklet | `ctrl-alt-b` |  |  | [Bookmarklet](https://atom.io/packages/bookmarklet) |
+| Git Plus Menu | `cmd-shift-h,` | `ctrl-shift-h` | `ctrl-shift-h` | [Git Plus](https://atom.io/packages/git-plus) |
+| Jumpy | `shift-enter` |  |  | [Jumpy](https://atom.io/packages/jumpy) |
+| Minimap Toggle | `ctrl-k ctrl-m` |  |  | [Minimap](https://atom.io/packages/minimap) |
+| Open File in Browser | `ctrl-alt-m` |  |  | [Open in Browser](https://atom.io/packages/open-in-browser) |
+| Run Script | `cmd-i` |  |  | [Script](https://atom.io/packages/script) |
+| Open Terminal | `ctrl-alt-t` |  |  | [Term2](https://atom.io/packages/term2) |
 
 ## apm
 
