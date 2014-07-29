@@ -24,6 +24,19 @@ Some general keyboard shortcuts that I use frequently.
 | Open Link | `ctrl-shift-o` |  |  |  |
 | Toggle Developer Tools | `cmd-alt-i` |  |  |  |
 
+## Window Management
+
+| Command | Mac OS X | Windows | Linux | Description |
+| ------- | -------- | ------- | ----- | ----------- |
+| New File | `cmd-n` |  |  |  |
+| New Window | `cmd-shift-n` |  |  |  |
+| Open | `cmd-o` |  |  |  |
+| Save | `cmd-s` |  |  |  |
+| Save As | `cmd-shift-s` |  |  |  |
+| Save All | `cmd-alt-s` |  |  |  |
+| Close Tab | `cmd-w` |  |  |  |
+| Close Window | `cmd-shift-w` |  |  |  |
+
 ## Editing
 
 | Command | Mac OS X | Windows | Linux | Description |
@@ -34,7 +47,9 @@ Some general keyboard shortcuts that I use frequently.
 | Move Line Down | `cmd-ctrl-down` |  |  |  |
 | Find/Replace | `cmd-f` |  |  |  |
 | Find Next | `cmd-g` |  |  |  |
+| Find in Project | `cmd-shift-f` |  |  |  |
 | Go To Line | `ctrl-g` |  |  |  |
+| Select Line | `cmd-l` |  |  |  |
 
 ## Various Packages
 
