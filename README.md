@@ -23,6 +23,7 @@ Some general keyboard shortcuts that I use frequently.
 | Reload Atom | `cmd-ctrl-alt-l` |  |  |  |
 | Open Link | `ctrl-shift-o` |  |  |  |
 | Toggle Developer Tools | `cmd-alt-i` |  |  |  |
+| Show Available Snippets | `alt-shift-s` |  |  |  |
 
 ## Window Management
 
