@@ -21,6 +21,7 @@ Some general keyboard shortcuts that I use frequently.
 | Key Binding Resolver | `cmd-.` |  |  |  |
 | Toggle Tree View | `cmd-k cmd-b` |  |  |  |
 | Reload Atom | `cmd-ctrl-alt-l` |  |  |  |
+| Open Link | `ctrl-shift-o` |  |  |  |
 
 ## Editing
 
@@ -30,6 +31,9 @@ Some general keyboard shortcuts that I use frequently.
 | Delete Line | `ctrl-shift-k` |  |  |  |
 | Move Line Up | `cmd-ctrl-up` |  |  |  |
 | Move Line Down | `cmd-ctrl-down` |  |  |  |
+| Find/Replace | `cmd-f` |  |  |  |
+| Find Next | `cmd-g` |  |  |  |
+| Go To Line | `ctrl-g` |  |  |  |
 
 ## Git
 
@@ -45,6 +49,13 @@ These are some packages I find useful, and their most useful key bindings.
 
 | Command | Mac OS X | Windows | Linux | Package |
 | ------- | -------- | ------- | ----- | ----------- |
+| Block Travel up/down | `alt-up`, `alt-down` |  |  | https://atom.io/packages/block-travel |
+| Bookmarklet | `ctrl-alt-b` |  |  | https://atom.io/packages/bookmarklet |
+| Jumpy | `shift-enter` |  |  | https://atom.io/packages/jumpy |
+| Minimap Toggle | `ctrl-k ctrl-m` |  |  | https://atom.io/packages/minimap |
+| Open File in Browser | `ctrl-alt-m` |  |  | https://atom.io/packages/open-in-browser |
+| Run Script | `cmd-i` |  |  | https://atom.io/packages/script |
+| Open Terminal | `ctrl-alt-t` |  |  | https://atom.io/packages/term2 |
 
 ## apm
 
