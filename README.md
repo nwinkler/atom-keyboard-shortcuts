@@ -52,6 +52,7 @@ Some general keyboard shortcuts that I use frequently.
 | Find Next | `cmd-g` |  |  |  |
 | Find in Project | `cmd-shift-f` |  |  |  |
 | Go To Line | `ctrl-g` |  |  |  |
+| Go To Matching Bracket | `ctrl-m` |  |  |  |
 | Select Line | `cmd-l` |  |  |  |
 
 ## Various Packages
