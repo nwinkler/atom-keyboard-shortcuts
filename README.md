@@ -54,6 +54,7 @@ Some general keyboard shortcuts that I use frequently.
 | Go To Line | `ctrl-g` |  |  |  |
 | Go To Matching Bracket | `ctrl-m` |  |  |  |
 | Select Line | `cmd-l` |  |  |  |
+| Toggle Comment | `cmd-/` |  |  |  |
 
 ## Various Packages
 
