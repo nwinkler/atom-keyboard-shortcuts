@@ -69,6 +69,7 @@ These are some packages I find useful, and their most useful key bindings.
 | Open File in Browser | `ctrl-alt-m` |  |  | [Open in Browser](https://atom.io/packages/open-in-browser) |
 | Run Script | `cmd-i` |  |  | [Script](https://atom.io/packages/script) |
 | Open Terminal | `ctrl-alt-t` |  |  | [Term2](https://atom.io/packages/term2) |
+| Open Project | `cmd-ctrl-p` | `ctrl-alt-shift-p` | `ctrl-alt-shift-p` | [Project Manager](https://atom.io/packages/project-manager) |
 
 ## apm
 
