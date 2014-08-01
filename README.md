@@ -15,16 +15,16 @@ Some general keyboard shortcuts that I use frequently.
 | Command | Mac OS X | Windows | Linux | Description |
 | ------- | -------- | ------- | ----- | ----------- |
 | Preferences/Settings | `cmd-,` |  |  |  |
-| Command Palette | `cmd-shift-p` |  |  |  |
+| Command Palette | `shift-cmd-p` |  |  |  |
 | Open File (Fuzzy) | `cmd-p` |  |  |  |
 | Browse Open Files | `cmd-b` |  |  |  |
 | Grammar Selector | `ctrl-shift-l` |  |  |  |
 | Markdown Preview | `ctrl-shift-m` |  |  |  |
 | Key Binding Resolver | `cmd-.` |  |  |  |
 | Toggle Tree View | `cmd-k cmd-b` |  |  |  |
-| Reload Atom | `cmd-ctrl-alt-l` |  |  |  |
+| Reload Atom | `ctrl-alt-cmd-l` |  |  |  |
 | Open Link | `ctrl-shift-o` |  |  |  |
-| Toggle Developer Tools | `cmd-alt-i` |  |  |  |
+| Toggle Developer Tools | `alt-cmd-i` |  |  |  |
 | Show Available Snippets | `alt-shift-s` |  |  |  |
 
 ## Window Management
@@ -32,25 +32,25 @@ Some general keyboard shortcuts that I use frequently.
 | Command | Mac OS X | Windows | Linux | Description |
 | ------- | -------- | ------- | ----- | ----------- |
 | New File | `cmd-n` |  |  |  |
-| New Window | `cmd-shift-n` |  |  |  |
+| New Window | `shift-cmd-n` |  |  |  |
 | Open | `cmd-o` |  |  |  |
 | Save | `cmd-s` |  |  |  |
-| Save As | `cmd-shift-s` |  |  |  |
-| Save All | `cmd-alt-s` |  |  |  |
+| Save As | `shift-cmd-s` |  |  |  |
+| Save All | `alt-cmd-s` |  |  |  |
 | Close Tab | `cmd-w` |  |  |  |
-| Close Window | `cmd-shift-w` |  |  |  |
+| Close Window | `shift-cmd-w` |  |  |  |
 
 ## Editing
 
 | Command | Mac OS X | Windows | Linux | Description |
 | ------- | -------- | ------- | ----- | ----------- |
-| Duplicate Lines | `cmd-shift-d` |  |  |  |
+| Duplicate Lines | `shift-cmd-d` |  |  |  |
 | Delete Line | `ctrl-shift-k` |  |  |  |
-| Move Line Up | `cmd-ctrl-up` |  |  |  |
-| Move Line Down | `cmd-ctrl-down` |  |  |  |
+| Move Line Up | `ctrl-cmd-up` |  |  |  |
+| Move Line Down | `ctrl-cmd-down` |  |  |  |
 | Find/Replace | `cmd-f` |  |  |  |
 | Find Next | `cmd-g` |  |  |  |
-| Find in Project | `cmd-shift-f` |  |  |  |
+| Find in Project | `shift-cmd-f` |  |  |  |
 | Go To Line | `ctrl-g` |  |  |  |
 | Go To Matching Bracket | `ctrl-m` |  |  |  |
 | Select Line | `cmd-l` |  |  |  |
@@ -64,13 +64,13 @@ These are some packages I find useful, and their most useful key bindings.
 | Block Travel up/down | `alt-up`, `alt-down` |  |  | [Block Travel](https://atom.io/packages/block-travel) |
 | Bookmarklet | `ctrl-alt-b` |  |  | [Bookmarklet](https://atom.io/packages/bookmarklet) |
 | Incremental Search | `cmd-i` |  |  | [Incremental Search](https://atom.io/packages/incremental-search) |
-| Git Plus Menu | `cmd-shift-h` | `ctrl-shift-h` | `ctrl-shift-h` | [Git Plus](https://atom.io/packages/git-plus) |
+| Git Plus Menu | `shift-cmd-h` | `ctrl-shift-h` | `ctrl-shift-h` | [Git Plus](https://atom.io/packages/git-plus) |
 | Jumpy | `shift-enter` |  |  | [Jumpy](https://atom.io/packages/jumpy) |
 | Minimap Toggle | `ctrl-k ctrl-m` |  |  | [Minimap](https://atom.io/packages/minimap) |
 | Open File in Browser | `ctrl-alt-m` |  |  | [Open in Browser](https://atom.io/packages/open-in-browser) |
 | Run Script | `ctrl-cmd-i` |  |  | [Script](https://atom.io/packages/script) - Keybinding remapped from original `cmd-i` to avoid conflict with Incremental Search |
 | Open Terminal | `ctrl-alt-t` |  |  | [Term2](https://atom.io/packages/term2) |
-| Open Project | `cmd-ctrl-p` | `ctrl-alt-shift-p` | `ctrl-alt-shift-p` | [Project Manager](https://atom.io/packages/project-manager) |
+| Open Project | `ctrl-cmd-p` | `ctrl-alt-shift-p` | `ctrl-alt-shift-p` | [Project Manager](https://atom.io/packages/project-manager) |
 
 ## apm
 
