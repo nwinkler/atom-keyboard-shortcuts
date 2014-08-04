@@ -58,7 +58,7 @@ Some general keyboard shortcuts that I use frequently.
 
 ## Various Packages
 
-These are some packages I find useful, and their most useful key bindings.
+These are some packages I find useful, and their most useful key bindings. A list of my favorite packages can be found [here](https://atom.io/users/nwinkler/stars).
 
 | Command | Mac OS X | Windows | Linux | Package |
 | ------- | -------- | ------- | ----- | ----------- |
