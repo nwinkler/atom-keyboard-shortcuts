@@ -14,14 +14,14 @@ Some general keyboard shortcuts that I use frequently.
 
 | Command | Mac OS X | Windows | Linux | Description |
 | ------- | -------- | ------- | ----- | ----------- |
-| Preferences/Settings | `cmd-,` |  |  |  |
-| Command Palette | `shift-cmd-p` |  |  |  |
-| Open File (Fuzzy) | `cmd-p` |  |  |  |
-| Browse Open Files | `cmd-b` |  |  |  |
-| Grammar Selector | `ctrl-shift-l` |  |  |  |
-| Markdown Preview | `ctrl-shift-m` |  |  |  |
-| Key Binding Resolver | `cmd-.` |  |  |  |
-| Toggle Tree View | `cmd-k cmd-b` |  |  |  |
+| Preferences/Settings | `cmd-,` |   | `ctrl-,` |  |
+| Command Palette | `shift-cmd-p` |  | `ctrl-shift-p` |  |
+| Open File (Fuzzy) | `cmd-p` |  | `ctrl-p` |  |
+| Browse Open Files | `cmd-b` |  | `ctrl-b` |  |
+| Grammar Selector | `ctrl-shift-l` |  | `ctrl-shift-l` |  |
+| Markdown Preview | `ctrl-shift-m` |  | `ctrl-shift-m` |  |
+| Key Binding Resolver | `cmd-.` |  | `ctrl-.` |  |
+| Toggle Tree View | `cmd-k cmd-b` |  | `ctrl-k ctrl-b` |  |
 | Reload Atom | `ctrl-alt-cmd-l` |  |  |  |
 | Open Link | `ctrl-shift-o` |  |  |  |
 | Toggle Developer Tools | `alt-cmd-i` |  |  |  |
@@ -31,30 +31,32 @@ Some general keyboard shortcuts that I use frequently.
 
 | Command | Mac OS X | Windows | Linux | Description |
 | ------- | -------- | ------- | ----- | ----------- |
-| New File | `cmd-n` |  |  |  |
-| New Window | `shift-cmd-n` |  |  |  |
-| Open | `cmd-o` |  |  |  |
-| Save | `cmd-s` |  |  |  |
-| Save As | `shift-cmd-s` |  |  |  |
+| New File | `cmd-n` |  | `ctrl-n` |  |
+| New Window | `shift-cmd-n` |  | `ctrl-shift-n` |  |
+| Open | `cmd-o` |  | `ctrl-o` |  |
+| Open Folder |  |  | `ctrl-shift-o` |  |
+| Save | `cmd-s` |  | `ctrl-s` |  |
+| Save As | `shift-cmd-s` |  | `ctrl-shift-s` |  |
 | Save All | `alt-cmd-s` |  |  |  |
-| Close Tab | `cmd-w` |  |  |  |
-| Close Window | `shift-cmd-w` |  |  |  |
+| Close Tab | `cmd-w` |  | `ctrl-w` |  |
+| Close Window | `shift-cmd-w` |  | `ctrl-shift-w` |  |
 
 ## Editing
 
 | Command | Mac OS X | Windows | Linux | Description |
 | ------- | -------- | ------- | ----- | ----------- |
-| Duplicate Lines | `shift-cmd-d` |  |  |  |
-| Delete Line | `ctrl-shift-k` |  |  |  |
-| Move Line Up | `ctrl-cmd-up` |  |  |  |
-| Move Line Down | `ctrl-cmd-down` |  |  |  |
-| Find/Replace | `cmd-f` |  |  |  |
-| Find Next | `cmd-g` |  |  |  |
-| Find in Project | `shift-cmd-f` |  |  |  |
-| Go To Line | `ctrl-g` |  |  |  |
-| Go To Matching Bracket | `ctrl-m` |  |  |  |
-| Select Line | `cmd-l` |  |  |  |
-| Toggle Comment | `cmd-/` |  |  |  |
+| Duplicate Lines | `shift-cmd-d` |  | `shift-cmd-d` |  |
+| Delete Line | `ctrl-shift-k` |  | `ctrl-shift-k` |  |
+| Move Line Up | `ctrl-cmd-up` |  | `ctrl-up` |  |
+| Move Line Down | `ctrl-cmd-down` |  | `ctrl-down` |  |
+| Find/Replace | `cmd-f` |  | `ctrl-f` |  |
+| Find Next | `cmd-g` |  | `F3` |  |
+| Find Previous |  |  | `shift-F3` |  |
+| Find in Project | `shift-cmd-f` |  | `ctrl-shift-f` |  |
+| Go To Line | `ctrl-g` |  | `ctrl-g` |  |
+| Go To Matching Bracket | `ctrl-m` |  | `ctrl-m` |  |
+| Select Line | `cmd-l` |  | `cmd-l` |  |
+| Toggle Comment | `cmd-/` |  | `cmd-/` |  |
 
 ## Various Packages
 
