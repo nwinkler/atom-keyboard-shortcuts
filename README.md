@@ -46,7 +46,7 @@ Some general keyboard shortcuts that I use frequently.
 
 | Command | Mac OS X | Windows | Linux | Description |
 | ------- | -------- | ------- | ----- | ----------- |
-| Duplicate Lines | `shift-cmd-d` | `ctrl-shift-d` | `shift-cmd-d` |  |
+| Duplicate Lines | `shift-cmd-d` | `ctrl-shift-d` | `ctrl-shift-d` |  |
 | Delete Line | `ctrl-shift-k` | `ctrl-shift-k`  | `ctrl-shift-k` |  |
 | Move Line Up | `ctrl-cmd-up` | `ctrl-up`  | `ctrl-up` |  |
 | Move Line Down | `ctrl-cmd-down` | `ctrl-down`  | `ctrl-down` |  |
@@ -56,8 +56,8 @@ Some general keyboard shortcuts that I use frequently.
 | Find in Project | `shift-cmd-f` | `ctrl-shift-f`  | `ctrl-shift-f` |  |
 | Go To Line | `ctrl-g` | `ctrl-g`  | `ctrl-g` |  |
 | Go To Matching Bracket | `ctrl-m` | `ctrl-m`  | `ctrl-m` |  |
-| Select Line | `cmd-l` | `ctrl-l`  | `cmd-l` |  |
-| Toggle Comment | `cmd-/` | `ctrl-/`  | `cmd-/` |  |
+| Select Line | `cmd-l` | `ctrl-l`  | `ctrl-l` |  |
+| Toggle Comment | `cmd-/` | `ctrl-/`  | `ctrl-/` |  |
 
 ## Various Packages
 
