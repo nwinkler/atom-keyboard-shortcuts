@@ -14,49 +14,50 @@ Some general keyboard shortcuts that I use frequently.
 
 | Command | Mac OS X | Windows | Linux | Description |
 | ------- | -------- | ------- | ----- | ----------- |
-| Preferences/Settings | `cmd-,` |   | `ctrl-,` |  |
-| Command Palette | `shift-cmd-p` |  | `ctrl-shift-p` |  |
-| Open File (Fuzzy) | `cmd-p` |  | `ctrl-p` |  |
-| Browse Open Files | `cmd-b` |  | `ctrl-b` |  |
-| Grammar Selector | `ctrl-shift-l` |  | `ctrl-shift-l` |  |
-| Markdown Preview | `ctrl-shift-m` |  | `ctrl-shift-m` |  |
-| Key Binding Resolver | `cmd-.` |  | `ctrl-.` |  |
-| Toggle Tree View | `cmd-k cmd-b` |  | `ctrl-k ctrl-b` |  |
-| Reload Atom | `ctrl-alt-cmd-l` |  |  |  |
+| Preferences/Settings | `cmd-,` | `ctrl-,`  | `ctrl-,` |  |
+| Command Palette | `shift-cmd-p` | `shift-ctrl-p`  | `ctrl-shift-p` |  |
+| Open File (Fuzzy) | `cmd-p` | `ctrl-p`  | `ctrl-p` |  |
+| Browse Open Files | `cmd-b` | `ctrl-b`  | `ctrl-b` |  |
+| Grammar Selector | `ctrl-shift-l` | `ctrl-shift-l`  | `ctrl-shift-l` |  |
+| Markdown Preview | `ctrl-shift-m` | `ctrl-shift-m`  | `ctrl-shift-m` |  |
+| Key Binding Resolver | `cmd-.` | `ctrl-.`  | `ctrl-.` |  |
+| Toggle Tree View | `cmd-k cmd-b` | `ctrl-k ctrl-b` | `ctrl-k ctrl-b` |  |
+| Reload Atom | `ctrl-alt-cmd-l` | `alt-ctrl-r` |  |  |
 | Open Link | `ctrl-shift-o` |  |  |  |
-| Toggle Developer Tools | `alt-cmd-i` |  |  |  |
-| Show Available Snippets | `alt-shift-s` |  |  |  |
+| Toggle Developer Tools | `alt-cmd-i` | `ctrl-alt-i`  |  |  |
+| Show Available Snippets | `alt-shift-s` | `alt-shift-s`  |  |  |
+
 
 ## Window Management
 
 | Command | Mac OS X | Windows | Linux | Description |
 | ------- | -------- | ------- | ----- | ----------- |
-| New File | `cmd-n` |  | `ctrl-n` |  |
-| New Window | `shift-cmd-n` |  | `ctrl-shift-n` |  |
-| Open | `cmd-o` |  | `ctrl-o` |  |
-| Open Folder |  |  | `ctrl-shift-o` |  |
-| Save | `cmd-s` |  | `ctrl-s` |  |
-| Save As | `shift-cmd-s` |  | `ctrl-shift-s` |  |
+| New File | `cmd-n` | `ctrl-n`  | `ctrl-n` |  |
+| New Window | `shift-cmd-n` | `ctrl-shift-n`  | `ctrl-shift-n` |  |
+| Open | `cmd-o` | `ctrl-o`  | `ctrl-o` |  |
+| Open Folder |  | `ctrl-shift-o`  | `ctrl-shift-o` |  |
+| Save | `cmd-s` | `ctrl-s`  | `ctrl-s` |  |
+| Save As | `shift-cmd-s` | `ctrl-shift-s`  | `ctrl-shift-s` |  |
 | Save All | `alt-cmd-s` |  |  |  |
-| Close Tab | `cmd-w` |  | `ctrl-w` |  |
-| Close Window | `shift-cmd-w` |  | `ctrl-shift-w` |  |
+| Close Tab | `cmd-w` |  `ctrl-w` | `ctrl-w` |  |
+| Close Window | `shift-cmd-w` | `ctrl-shift-w`  | `ctrl-shift-w` |  |
 
 ## Editing
 
 | Command | Mac OS X | Windows | Linux | Description |
 | ------- | -------- | ------- | ----- | ----------- |
-| Duplicate Lines | `shift-cmd-d` |  | `shift-cmd-d` |  |
-| Delete Line | `ctrl-shift-k` |  | `ctrl-shift-k` |  |
-| Move Line Up | `ctrl-cmd-up` |  | `ctrl-up` |  |
-| Move Line Down | `ctrl-cmd-down` |  | `ctrl-down` |  |
-| Find/Replace | `cmd-f` |  | `ctrl-f` |  |
-| Find Next | `cmd-g` |  | `F3` |  |
-| Find Previous |  |  | `shift-F3` |  |
-| Find in Project | `shift-cmd-f` |  | `ctrl-shift-f` |  |
-| Go To Line | `ctrl-g` |  | `ctrl-g` |  |
-| Go To Matching Bracket | `ctrl-m` |  | `ctrl-m` |  |
-| Select Line | `cmd-l` |  | `cmd-l` |  |
-| Toggle Comment | `cmd-/` |  | `cmd-/` |  |
+| Duplicate Lines | `shift-cmd-d` | `ctrl-shift-d` | `shift-cmd-d` |  |
+| Delete Line | `ctrl-shift-k` | `ctrl-shift-k`  | `ctrl-shift-k` |  |
+| Move Line Up | `ctrl-cmd-up` | `ctrl-up`  | `ctrl-up` |  |
+| Move Line Down | `ctrl-cmd-down` | `ctrl-down`  | `ctrl-down` |  |
+| Find/Replace | `cmd-f` | `ctrl-f`  | `ctrl-f` |  |
+| Find Next | `cmd-g` | `F3`  | `F3` |  |
+| Find Previous |  | `shift-F3`  | `shift-F3` |  |
+| Find in Project | `shift-cmd-f` | `ctrl-shift-f`  | `ctrl-shift-f` |  |
+| Go To Line | `ctrl-g` | `ctrl-g`  | `ctrl-g` |  |
+| Go To Matching Bracket | `ctrl-m` | `ctrl-m`  | `ctrl-m` |  |
+| Select Line | `cmd-l` | `ctrl-l`  | `cmd-l` |  |
+| Toggle Comment | `cmd-/` | `ctrl-/`  | `cmd-/` |  |
 
 ## Various Packages
 
