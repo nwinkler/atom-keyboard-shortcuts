@@ -21,7 +21,7 @@ Some general keyboard shortcuts that I use frequently.
 | Grammar Selector | `ctrl-shift-l` | `ctrl-shift-l`  | `ctrl-shift-l` |  |
 | Markdown Preview | `ctrl-shift-m` | `ctrl-shift-m`  | `ctrl-shift-m` |  |
 | Key Binding Resolver | `cmd-.` | `ctrl-.`  | `ctrl-.` |  |
-| Toggle Tree View | `cmd-k cmd-b` | `ctrl-k ctrl-b` | `ctrl-k ctrl-b` |  |
+| Toggle Tree View | `cmd-k cmd-b` | `ctrl-k ctrl-b` | `ctrl-k ctrl-b`<br/>or<br/>`ctrl-\`|  |
 | Reload Atom | `ctrl-alt-cmd-l` | `alt-ctrl-r` |  |  |
 | Open Link | `ctrl-shift-o` |  |  |  |
 | Toggle Developer Tools | `alt-cmd-i` | `ctrl-alt-i`  |  |  |
