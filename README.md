@@ -22,10 +22,10 @@ Some general keyboard shortcuts that I use frequently.
 | Markdown Preview | `ctrl-shift-m` | `ctrl-shift-m`  | `ctrl-shift-m` |  |
 | Key Binding Resolver | `cmd-.` | `ctrl-.`  | `ctrl-.` |  |
 | Toggle Tree View | `cmd-k cmd-b` | `ctrl-k ctrl-b` | `ctrl-k ctrl-b`<br/>or<br/>`ctrl-\`|  |
-| Reload Atom | `ctrl-alt-cmd-l` | `alt-ctrl-r` |  |  |
+| Reload Atom | `ctrl-alt-cmd-l` | `alt-ctrl-r` | `alt-ctrl-r` |  |
 | Open Link | `ctrl-shift-o` |  |  |  |
-| Toggle Developer Tools | `alt-cmd-i` | `ctrl-alt-i`  |  |  |
-| Show Available Snippets | `alt-shift-s` | `alt-shift-s`  |  |  |
+| Toggle Developer Tools | `alt-cmd-i` | `ctrl-alt-i`  | `ctrl-shift-i` |  |
+| Show Available Snippets | `alt-shift-s` | `alt-shift-s`  | `alt-shift-s` |  |
 
 
 ## Window Management
