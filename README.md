@@ -66,7 +66,7 @@ These are some packages I find useful, and their most useful key bindings. A lis
 | Command | Mac OS X | Windows | Linux | Package |
 | ------- | -------- | ------- | ----- | ----------- |
 | Block Travel up/down | `alt-up`, `alt-down` |  |  | [Block Travel](https://atom.io/packages/block-travel) |
-| Bookmarklet | `ctrl-alt-b` |  |  | [Bookmarklet](https://atom.io/packages/bookmarklet) |
+| Beautify | `ctrl-alt-b` |  |  | [Beautify](https://atom.io/packages/atom-beautify) |
 | Incremental Search | `cmd-i` |  |  | [Incremental Search](https://atom.io/packages/incremental-search) |
 | Git Plus Menu | `shift-cmd-h` | `ctrl-shift-h` | `ctrl-shift-h` | [Git Plus](https://atom.io/packages/git-plus) |
 | Jumpy | `shift-enter` |  |  | [Jumpy](https://atom.io/packages/jumpy) |
