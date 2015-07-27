@@ -32,7 +32,7 @@ Some general keyboard shortcuts that I use frequently.
 
 | Command | Mac OS X | Windows | Linux | Description |
 | ------- | -------- | ------- | ----- | ----------- |
-| New File | `cmd-n` | `ctrl-n`  | `ctrl-n` | Opens an empty file with a new tab |
+| New File | `cmd-n` | `ctrl-n`  | `ctrl-n` | Opens an empty file in a new tab |
 | New Window | `shift-cmd-n` | `ctrl-shift-n`  | `ctrl-shift-n` | Opens a new editor window |
 | Open | `cmd-o` | `ctrl-o`  | `ctrl-o` | Opens the File-Explorer, Finder, or any GUI based file manager in which you can pick one or more files to open |
 | Open Folder |  | `ctrl-shift-o`  | `ctrl-shift-o` | Opens the File-Explorer, Finder, or any GUI based file manager in which you can pick one or more folders to add to you're Tree View |
@@ -48,16 +48,16 @@ Some general keyboard shortcuts that I use frequently.
 | ------- | -------- | ------- | ----- | ----------- |
 | Duplicate Lines | `shift-cmd-d` | `ctrl-shift-d` | `ctrl-shift-d` | Duplicates the line of the current cursor position and creates a new line under it with the same contents  |
 | Delete Line | `ctrl-shift-k` | `ctrl-shift-k`  | `ctrl-shift-k` | Deletes the entire line of the current cursor position and moves the lines under it up one line |
-| Move Line Up | `ctrl-cmd-up` | `ctrl-up`  | `ctrl-up` | Moves the contents of the current cursor position up one line. If there is a line above with content, the line's content will swap with the one above it. |
+| Move Line Up | `ctrl-cmd-up` | `ctrl-up`  | `ctrl-up` | Moves the contents of the current cursor position up one line. If there is a line above with content, the current lines content will swap with the one above it. |
 | Move Line Down | `ctrl-cmd-down` | `ctrl-down`  | `ctrl-down` | Moves the contents of the current cursor position down one line. If there is a line below with content, the line's content will swap with the one below it. |
 | Find/Replace | `cmd-f` | `ctrl-f`  | `ctrl-f` | Opens up the Find/Replace panel |
-| Find Next | `cmd-g` | `F3`  | `F3` | While the Find/Replace panel is open: if multiple results are found within the current buffer then this will toggle forward through the results|
-| Find Previous |  | `shift-F3`  | `shift-F3` | While the Find/Replace panel is open: if multiple results are found within the current buffer then this will toggle through through the results|
+| Find Next | `cmd-g` | `F3`  | `F3` | Toggles forward through the results of the current buffer in the file while the Find/Replace panel is active|
+| Find Previous |  | `shift-F3`  | `shift-F3` | Toggles backward through the results of the current buffer in the file while the Find/Replace panel is active|
 | Find in Project | `shift-cmd-f` | `ctrl-shift-f`  | `ctrl-shift-f` | Opens the Find in Project Panel |
 | Go To Line | `ctrl-g` | `ctrl-g`  | `ctrl-g` | Opens the Go To Line panel |
 | Go To Matching Bracket | `ctrl-m` | `ctrl-m`  | `ctrl-m` | The cursor goes in the matching top bracket that the cursor is ecapsulated in  |
 | Select Line | `cmd-l` | `ctrl-l`  | `ctrl-l` | Selects the current line the cursor is in |
-| Toggle Comment | `cmd-/` | `ctrl-/`  | `ctrl-/` | Toggles the selected text into a comment |
+| Toggle Comment | `cmd-/` | `ctrl-/`  | `ctrl-/` | Toggles the selected text into a comment of the current grammar |
 
 ## Various Packages
 
