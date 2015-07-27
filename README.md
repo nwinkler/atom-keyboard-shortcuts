@@ -14,50 +14,50 @@ Some general keyboard shortcuts that I use frequently.
 
 | Command | Mac OS X | Windows | Linux | Description |
 | ------- | -------- | ------- | ----- | ----------- |
-| Preferences/Settings | `cmd-,` | `ctrl-,`  | `ctrl-,` |  |
-| Command Palette | `shift-cmd-p` | `shift-ctrl-p`  | `ctrl-shift-p` |  |
-| Open File (Fuzzy) | `cmd-p` | `ctrl-p`  | `ctrl-p` |  |
-| Browse Open Files | `cmd-b` | `ctrl-b`  | `ctrl-b` |  |
-| Grammar Selector | `ctrl-shift-l` | `ctrl-shift-l`  | `ctrl-shift-l` |  |
-| Markdown Preview | `ctrl-shift-m` | `ctrl-shift-m`  | `ctrl-shift-m` |  |
-| Key Binding Resolver | `cmd-.` | `ctrl-.`  | `ctrl-.` |  |
-| Toggle Tree View | `cmd-k cmd-b` | `ctrl-k ctrl-b` | `ctrl-k ctrl-b`<br/>or<br/>`ctrl-\`|  |
-| Reload Atom | `ctrl-alt-cmd-l` | `alt-ctrl-r` | `alt-ctrl-r` |  |
-| Open Link | `ctrl-shift-o` |  |  |  |
-| Toggle Developer Tools | `alt-cmd-i` | `ctrl-alt-i`  | `ctrl-shift-i` |  |
-| Show Available Snippets | `alt-shift-s` | `alt-shift-s`  | `alt-shift-s` |  |
+| Preferences/Settings | `cmd-,` | `ctrl-,`  | `ctrl-,` | Opens the settings view |
+| Command Palette | `shift-cmd-p` | `shift-ctrl-p`  | `ctrl-shift-p` | Opens & closes the command palette |
+| Open File (Fuzzy) | `cmd-p` | `ctrl-p`  | `ctrl-p` | Opens the Fuzzy Finder palette in which you can search and open files  |
+| Browse Open Files | `cmd-b` | `ctrl-b`  | `ctrl-b` | Browse tabs within the window  |
+| Grammar Selector | `ctrl-shift-l` | `ctrl-shift-l`  | `ctrl-shift-l` | Selects the language the file is in  |
+| Markdown Preview | `ctrl-shift-m` | `ctrl-shift-m`  | `ctrl-shift-m` | Previews the file in the markdown format |
+| Key Binding Resolver | `cmd-.` | `ctrl-.`  | `ctrl-.` | Shows what keybindings the command resolves to |
+| Toggle Tree View | `cmd-k cmd-b` | `ctrl-k ctrl-b` | `ctrl-k ctrl-b`<br/>or<br/>`ctrl-\`| Toggles Atom's file Tree View |
+| Reload Atom | `ctrl-alt-cmd-l` | `alt-ctrl-r` | `alt-ctrl-r` | Reloads the Editor  |
+| Open Link | `ctrl-shift-o` |  |  | Opens up a HTTP or HTTPS link |
+| Toggle Developer Tools | `alt-cmd-i` | `ctrl-alt-i`  | `ctrl-shift-i` | Opens up the Chrome Developer Tools/Console |
+| Show Available Snippets | `alt-shift-s` | `alt-shift-s`  | `alt-shift-s` | Shows the snippets available to atom  |
 
 
 ## Window Management
 
 | Command | Mac OS X | Windows | Linux | Description |
 | ------- | -------- | ------- | ----- | ----------- |
-| New File | `cmd-n` | `ctrl-n`  | `ctrl-n` |  |
-| New Window | `shift-cmd-n` | `ctrl-shift-n`  | `ctrl-shift-n` |  |
-| Open | `cmd-o` | `ctrl-o`  | `ctrl-o` |  |
-| Open Folder |  | `ctrl-shift-o`  | `ctrl-shift-o` |  |
-| Save | `cmd-s` | `ctrl-s`  | `ctrl-s` |  |
-| Save As | `shift-cmd-s` | `ctrl-shift-s`  | `ctrl-shift-s` |  |
-| Save All | `alt-cmd-s` |  |  |  |
-| Close Tab | `cmd-w` |  `ctrl-w` | `ctrl-w` |  |
-| Close Window | `shift-cmd-w` | `ctrl-shift-w`  | `ctrl-shift-w` |  |
+| New File | `cmd-n` | `ctrl-n`  | `ctrl-n` | Opens an empty file with a new tab |
+| New Window | `shift-cmd-n` | `ctrl-shift-n`  | `ctrl-shift-n` | Opens a new editor window |
+| Open | `cmd-o` | `ctrl-o`  | `ctrl-o` | Opens the File-Explorer, Finder, or any GUI based file manager in which you can pick one or more files to open |
+| Open Folder |  | `ctrl-shift-o`  | `ctrl-shift-o` | Opens the File-Explorer, Finder, or any GUI based file manager in which you can pick one or more folders to add to you're Tree View |
+| Save | `cmd-s` | `ctrl-s`  | `ctrl-s` | Saves the currently active file |
+| Save As | `shift-cmd-s` | `ctrl-shift-s`  | `ctrl-shift-s` | Saves the currently active file as another file of possibly a different name or type  |
+| Save All | `alt-cmd-s` |  |  | Saves all files that are open |
+| Close Tab | `cmd-w` |  `ctrl-w` | `ctrl-w` | Closes the currently active tab|
+| Close Window | `shift-cmd-w` | `ctrl-shift-w`  | `ctrl-shift-w` | Closes the currently active window  |
 
 ## Editing
 
 | Command | Mac OS X | Windows | Linux | Description |
 | ------- | -------- | ------- | ----- | ----------- |
-| Duplicate Lines | `shift-cmd-d` | `ctrl-shift-d` | `ctrl-shift-d` |  |
-| Delete Line | `ctrl-shift-k` | `ctrl-shift-k`  | `ctrl-shift-k` |  |
-| Move Line Up | `ctrl-cmd-up` | `ctrl-up`  | `ctrl-up` |  |
-| Move Line Down | `ctrl-cmd-down` | `ctrl-down`  | `ctrl-down` |  |
-| Find/Replace | `cmd-f` | `ctrl-f`  | `ctrl-f` |  |
-| Find Next | `cmd-g` | `F3`  | `F3` |  |
-| Find Previous |  | `shift-F3`  | `shift-F3` |  |
-| Find in Project | `shift-cmd-f` | `ctrl-shift-f`  | `ctrl-shift-f` |  |
-| Go To Line | `ctrl-g` | `ctrl-g`  | `ctrl-g` |  |
-| Go To Matching Bracket | `ctrl-m` | `ctrl-m`  | `ctrl-m` |  |
-| Select Line | `cmd-l` | `ctrl-l`  | `ctrl-l` |  |
-| Toggle Comment | `cmd-/` | `ctrl-/`  | `ctrl-/` |  |
+| Duplicate Lines | `shift-cmd-d` | `ctrl-shift-d` | `ctrl-shift-d` | Duplicates the line of the current cursor position and creates a new line under it with the same contents  |
+| Delete Line | `ctrl-shift-k` | `ctrl-shift-k`  | `ctrl-shift-k` | Deletes the entire line of the current cursor position and moves the lines under it up one line |
+| Move Line Up | `ctrl-cmd-up` | `ctrl-up`  | `ctrl-up` | Moves the contents of the current cursor position up one line. If there is a line above with content, the line's content will swap with the one above it. |
+| Move Line Down | `ctrl-cmd-down` | `ctrl-down`  | `ctrl-down` | Moves the contents of the current cursor position down one line. If there is a line below with content, the line's content will swap with the one below it. |
+| Find/Replace | `cmd-f` | `ctrl-f`  | `ctrl-f` | Opens up the Find/Replace panel |
+| Find Next | `cmd-g` | `F3`  | `F3` | While the Find/Replace panel is open: if multiple results are found within the current buffer then this will toggle forward through the results|
+| Find Previous |  | `shift-F3`  | `shift-F3` | While the Find/Replace panel is open: if multiple results are found within the current buffer then this will toggle through through the results|
+| Find in Project | `shift-cmd-f` | `ctrl-shift-f`  | `ctrl-shift-f` | Opens the Find in Project Panel |
+| Go To Line | `ctrl-g` | `ctrl-g`  | `ctrl-g` | Opens the Go To Line panel |
+| Go To Matching Bracket | `ctrl-m` | `ctrl-m`  | `ctrl-m` | The cursor goes in the matching top bracket that the cursor is ecapsulated in  |
+| Select Line | `cmd-l` | `ctrl-l`  | `ctrl-l` | Selects the current line the cursor is in |
+| Toggle Comment | `cmd-/` | `ctrl-/`  | `ctrl-/` | Toggles the selected text into a comment |
 
 ## Various Packages
 
