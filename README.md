@@ -58,6 +58,7 @@ Some general keyboard shortcuts that I use frequently.
 | Go To Matching Bracket | `ctrl-m` | `ctrl-m`  | `ctrl-m` | The cursor goes to the matching top bracket that the cursor is ecapsulated in  |
 | Select Line | `cmd-l` | `ctrl-l`  | `ctrl-l` | Selects the entire line the cursor's current position is in |
 | Toggle Comment | `cmd-/` | `ctrl-/`  | `ctrl-/` | Toggles the selected text into a comment of the current grammar |
+| Column Selection | `ctrl-shift-up/down` |  |  | Allows to select multiple rows, where the same edit will be applied |
 
 ## Various Packages
 
@@ -76,6 +77,7 @@ These are some packages I find useful, and their most useful key bindings. A lis
 | Open Terminal | `ctrl-alt-t` |  |  | [Term2](https://atom.io/packages/term2) |
 | Open Project | `ctrl-cmd-p` | `ctrl-alt-shift-p` | `ctrl-alt-shift-p` | [Project Manager](https://atom.io/packages/project-manager) |
 | Open In | `ctrl-alt-o` |  |  | [Open In](https://atom.io/packages/open-in) |
+| Sublime Style Column Selection | `alt-mouse` |  |  [Sublime Style Column Selection](https://atom.io/packages/Sublime-Style-Column-Selection) |
 
 ## apm
 
