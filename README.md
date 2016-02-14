@@ -78,7 +78,7 @@ These are some packages I find useful, and their most useful key bindings. A lis
 | Open Terminal | `ctrl-alt-t` |  |  | [Term2](https://atom.io/packages/term2) |
 | Open Project | `ctrl-cmd-p` | `ctrl-alt-shift-p` | `ctrl-alt-shift-p` | [Project Manager](https://atom.io/packages/project-manager) |
 | Open In | `ctrl-alt-o` |  |  | [Open In](https://atom.io/packages/open-in) |
-| Sublime Style Column Selection | `alt-mouse` |  |  [Sublime Style Column Selection](https://atom.io/packages/Sublime-Style-Column-Selection) |
+| Sublime Style Column Selection | `alt-mouse` |  |  | [Sublime Style Column Selection](https://atom.io/packages/Sublime-Style-Column-Selection) |
 
 ## apm
 
