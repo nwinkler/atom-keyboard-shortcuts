@@ -16,12 +16,12 @@ Some general keyboard shortcuts that I use frequently.
 | ------- | -------- | ------- | ----- | ----------- |
 | Preferences/Settings | `cmd-,` | `ctrl-,`  | `ctrl-,` | Opens the Preferences/Settings view |
 | Command Palette | `shift-cmd-p` | `shift-ctrl-p`  | `ctrl-shift-p` | Opens & closes the command palette |
-| Open File (Fuzzy) | `cmd-p` | `ctrl-p`  | `ctrl-p` | Opens the Fuzzy Finder palette in which you can search and open files  |
+| Open File (Fuzzy) | `cmd-p` | `ctrl-p`<br/>or<br/>`ctrl-t`  | `ctrl-p` | Opens the Fuzzy Finder palette in which you can search and open files  |
 | Browse Open Files | `cmd-b` | `ctrl-b`  | `ctrl-b` | Browse tabs within the window  |
 | Grammar Selector | `ctrl-shift-l` | `ctrl-shift-l`  | `ctrl-shift-l` | Selects the language the file is in  |
 | Markdown Preview | `ctrl-shift-m` | `ctrl-shift-m`  | `ctrl-shift-m` | Previews the file in the Markdown format |
 | Key Binding Resolver | `cmd-.` | `ctrl-.`  | `ctrl-.` | Shows what keybindings the pressed key combination resolves to |
-| Toggle Tree View | `cmd-k cmd-b` | `ctrl-k ctrl-b` | `ctrl-k ctrl-b`<br/>or<br/>`ctrl-\`| Toggles Atom's file Tree View |
+| Toggle Tree View | `cmd-k cmd-b` | `ctrl-k ctrl-b`<br/>or<br/>`ctrl-\` | `ctrl-k ctrl-b`<br/>or<br/>`ctrl-\`| Toggles Atom's file Tree View |
 | Reload Atom | `ctrl-alt-cmd-l` | `alt-ctrl-r` | `alt-ctrl-r` | Reloads the Editor  |
 | Open Link | `ctrl-shift-o` |  |  | Opens up a HTTP or HTTPS link |
 | Toggle Developer Tools | `alt-cmd-i` | `ctrl-alt-i`  | `ctrl-shift-i` | Opens up the Chrome Developer Tools/Console |
@@ -76,7 +76,7 @@ These are some packages I find useful, and their most useful key bindings. A lis
 | Open File in Browser | `ctrl-alt-m` |  |  | [Open in Browser](https://atom.io/packages/open-in-browser) |
 | Run Script | `ctrl-cmd-i` |  |  | [Script](https://atom.io/packages/script) - Keybinding remapped from original `cmd-i` to avoid conflict with Incremental Search |
 | Open Terminal | `ctrl-alt-t` |  |  | [Term2](https://atom.io/packages/term2) |
-| Open Project | `ctrl-cmd-p` | `ctrl-alt-shift-p` | `ctrl-alt-shift-p` | [Project Manager](https://atom.io/packages/project-manager) |
+| Open Project | `ctrl-cmd-p` | `alt-shift-p` | `ctrl-alt-shift-p` | [Project Manager](https://atom.io/packages/project-manager) |
 | Open In | `ctrl-alt-o` |  |  | [Open In](https://atom.io/packages/open-in) |
 | Sublime Style Column Selection | `alt-mouse` |  |  | [Sublime Style Column Selection](https://atom.io/packages/Sublime-Style-Column-Selection) |
 
