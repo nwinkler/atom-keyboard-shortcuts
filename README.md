@@ -52,7 +52,7 @@ Some general keyboard shortcuts that I use frequently.
 | Move Line Down | `ctrl-cmd-down` | `ctrl-down`  | `ctrl-down` | Moves the contents of the current cursor position down one line. If there is a line below with content, the line's content will swap with the one below it. |
 | Find/Replace | `cmd-f` | `ctrl-f`  | `ctrl-f` | Opens up the Find/Replace panel |
 | Find Next | `cmd-g` | `F3`  | `F3` | Toggles forward through the results of the current buffer in the file while the Find/Replace panel is active |
-| Find Previous | `shift-cmd-g | `shift-F3`  | `shift-F3` | Toggles backward through the results of the current buffer in the file while the Find/Replace panel is active|
+| Find Previous | `shift-cmd-g` | `shift-F3`  | `shift-F3` | Toggles backward through the results of the current buffer in the file while the Find/Replace panel is active|
 | Find in Project | `shift-cmd-f` | `ctrl-shift-f`  | `ctrl-shift-f` | Opens the Find in Project Panel |
 | Go To Line | `ctrl-g` | `ctrl-g`  | `ctrl-g` | Opens the Go To Line panel |
 | Go To Matching Bracket | `ctrl-m` | `ctrl-m`  | `ctrl-m` | The cursor goes to the matching top bracket that the cursor is ecapsulated in  |
