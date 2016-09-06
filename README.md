@@ -58,7 +58,7 @@ Some general keyboard shortcuts that I use frequently.
 | Go To Matching Bracket | `ctrl-m` | `ctrl-m`  | `ctrl-m` | The cursor goes to the matching top bracket that the cursor is ecapsulated in  |
 | Select Line | `cmd-l` | `ctrl-l`  | `ctrl-l` | Selects the entire line the cursor's current position is in |
 | Toggle Comment | `cmd-/` | `ctrl-/`  | `ctrl-/` | Toggles the selected text into a comment of the current grammar |
-| Column Selection | `ctrl-shift-up/down` |  |  | Allows to select multiple rows, where the same edit will be applied |
+| Column Selection | `ctrl-shift-up/down` |  | `shift-alt-up/down`  | Allows to select multiple rows, where the same edit will be applied |
 
 ## Various Packages
 
