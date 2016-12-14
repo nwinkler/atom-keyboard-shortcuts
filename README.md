@@ -59,7 +59,7 @@ Some general keyboard shortcuts that I use frequently.
 | Select Line | `cmd-l` | `ctrl-l`  | `ctrl-l` | Selects the entire line the cursor's current position is in |
 | Toggle Comment | `cmd-/` | `ctrl-/`  | `ctrl-/` | Toggles the selected text into a comment of the current grammar |
 | Column Selection | `ctrl-shift-up/down` |  | `shift-alt-up/down`  | Allows to select multiple rows, where the same edit will be applied |
-| Select Same Words | `cmd-d` | `ctrl-d` | `ctrl-d` | if you select a world, then you hit ctrl-D and Atom will select next same word for you. Then you can either type directly (which will replace the old words) or use left or right arrow to append things.
+| Select Same Words | `cmd-d` | `ctrl-d` | `ctrl-d` | If you select a word, and then hit the key combo for this command, Atom will select the next same word for you. Then you can either type directly (which will replace the old words) or use left or right arrow to append things.
 
 ## Various Packages
 
