@@ -4,7 +4,7 @@ This page lists keyboard shortcuts for the [Atom text editor](https://atom.io) t
 
 This list is by no means meant to be a complete listing of every available shortcut. It simply lists the shortcuts that I use on a regular basis. For a complete listing of all available shortcuts, consult the _Settings > Keybindings_ page in Atom.
 
-Since I'm using a Mac, I have mainly listed the keyboard shortcuts for Mac OS X. Please feel free to add the Windows or Linux shortcuts.
+Since I'm using a Mac, I have mainly listed the keyboard shortcuts macOS. Please feel free to add the Windows or Linux shortcuts.
 
 Where the shortcut is provided by a package, I have added a link to the package.
 
@@ -12,7 +12,7 @@ Where the shortcut is provided by a package, I have added a link to the package.
 
 Some general keyboard shortcuts that I use frequently.
 
-| Command | Mac OS X | Windows | Linux | Description |
+| Command | macOS | Windows | Linux | Description |
 | ------- | -------- | ------- | ----- | ----------- |
 | Preferences/Settings | `cmd-,` | `ctrl-,`  | `ctrl-,` | Opens the Preferences/Settings view |
 | Command Palette | `shift-cmd-p` | `shift-ctrl-p`  | `ctrl-shift-p` | Opens & closes the command palette |
@@ -30,7 +30,7 @@ Some general keyboard shortcuts that I use frequently.
 
 ## Window Management
 
-| Command | Mac OS X | Windows | Linux | Description |
+| Command | macOS | Windows | Linux | Description |
 | ------- | -------- | ------- | ----- | ----------- |
 | New File | `cmd-n` | `ctrl-n`  | `ctrl-n` | Opens an empty file in a new tab |
 | New Window | `shift-cmd-n` | `ctrl-shift-n`  | `ctrl-shift-n` | Opens a new editor window |
@@ -44,7 +44,7 @@ Some general keyboard shortcuts that I use frequently.
 
 ## Editing
 
-| Command | Mac OS X | Windows | Linux | Description |
+| Command | macOS | Windows | Linux | Description |
 | ------- | -------- | ------- | ----- | ----------- |
 | Duplicate Lines | `shift-cmd-d` | `ctrl-shift-d` | `ctrl-shift-d` | Duplicates the line of the current cursor position and creates a new line under it with the same contents |
 | Delete Line | `ctrl-shift-k` | `ctrl-shift-k` | `ctrl-shift-k` | Deletes the current line |
@@ -65,7 +65,7 @@ Some general keyboard shortcuts that I use frequently.
 
 These are some packages I find useful, and their most useful key bindings. A list of my favorite packages can be found [here](https://atom.io/users/nwinkler/stars).
 
-| Command | Mac OS X | Windows | Linux | Package |
+| Command | macOS | Windows | Linux | Package |
 | ------- | -------- | ------- | ----- | ----------- |
 | Block Travel up/down | `alt-up`, `alt-down` |  |  | [Block Travel](https://atom.io/packages/block-travel) |
 | Beautify | `ctrl-alt-b` |  |  | [Beautify](https://atom.io/packages/atom-beautify) |
