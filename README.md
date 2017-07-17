@@ -41,7 +41,7 @@ Some general keyboard shortcuts that I use frequently.
 | Save All | `alt-cmd-s` |  |  | Saves all changed files |
 | Close Tab | `cmd-w` |  `ctrl-w` | `ctrl-w` | Closes the currently active tab|
 | Close Window | `shift-cmd-w` | `ctrl-shift-w`  | `ctrl-shift-w` | Closes the currently active editor window  |
-| Split Window | `` | `ctrl-k up/down/left/right` | `` | Split the currently active tab |
+| Split Window | ` ` | `ctrl-k up/down/left/right` | ` ` | Split the currently active tab |
 
 ## Editing
 
