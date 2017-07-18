@@ -42,6 +42,7 @@ Some general keyboard shortcuts that I use frequently.
 | Close Tab | `cmd-w` |  `ctrl-w` | `ctrl-w` | Closes the currently active tab|
 | Close Window | `shift-cmd-w` | `ctrl-shift-w`  | `ctrl-shift-w` | Closes the currently active editor window  |
 | Split Window |  | `ctrl-k up/down/left/right` |  | Split the currently active tab in one of the four directions |
+| Focus Window |  | `ctrl-k ctrl-up/down/left/right` |  | Focus the tab in one of the four directions |
 
 ## Editing
 
