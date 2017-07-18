@@ -41,8 +41,8 @@ Some general keyboard shortcuts that I use frequently.
 | Save All | `alt-cmd-s` |  |  | Saves all changed files |
 | Close Tab | `cmd-w` |  `ctrl-w` | `ctrl-w` | Closes the currently active tab|
 | Close Window | `shift-cmd-w` | `ctrl-shift-w`  | `ctrl-shift-w` | Closes the currently active editor window  |
-| Split Window |  | `ctrl-k up/down/left/right` |  | Split the currently active tab in one of the four directions |
-| Focus Window |  | `ctrl-k ctrl-up/down/left/right` |  | Focus the tab in one of the four directions |
+| Split Window | `cmd-k up/down/left/right` | `ctrl-k up/down/left/right` | `ctrl-k up/down/left/right` | Split the currently active tab in one of the four directions |
+| Focus Pane | `cmd-k cmd-up/down/left/right` | `ctrl-k ctrl-up/down/left/right` | `ctrl-k ctrl-up/down/left/right` | Move the focus to the pane in one of the four directions |
 
 ## Editing
 
