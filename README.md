@@ -63,6 +63,7 @@ Some general keyboard shortcuts that I use frequently.
 | Column Selection | `ctrl-shift-up/down` | `ctrl-alt-up/down` | `shift-alt-up/down`  | Allows to select multiple rows, where the same edit will be applied |
 | Select Same Words | `cmd-d` | `ctrl-d` | `ctrl-d` | If you select a word, and then hit the key combo for this command, Atom will select the next same word for you. Then you can either type directly (which will replace the old words) or use left or right arrow to append things. |
 | Undo Selection | `cmd-u` | `ctrl-u` | `ctrl-u` | This undoes the previous selection, like from Select Same Words. |
+| Select All The Same Words At Once | `cmd-ctrl-g` | `alt-f3`  | `alt-f3` | This shortcut is similar to `cmd-d/ctrl-d` but it selects all the matching words at once.  |
 
 ## Various Packages
 
