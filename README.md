@@ -64,7 +64,7 @@ Some general keyboard shortcuts that I use frequently.
 | Select Same Words | `cmd-d` | `ctrl-d` | `ctrl-d` | If you select a word, and then hit the key combo for this command, Atom will select the next same word for you. Then you can either type directly (which will replace the old words) or use left or right arrow to append things. |
 | Undo Selection | `cmd-u` | `ctrl-u` | `ctrl-u` | This undoes the previous selection, like from Select Same Words. |
 | Select All The Same Words At Once | `cmd-ctrl-g` | `alt-f3`  | `alt-f3` | This shortcut is similar to `cmd-d/ctrl-d` but it selects all the matching words at once.  |
-| Show symbols palette | `cmd-r` | `ctrl-r` | `ctrl-r` | This shortcuts opens a palette that lists all the symbols (or functions) in your current file allowing you to fuzzy search and jump lines
+| Show Symbols Palette | `cmd-r` | `ctrl-r` | `ctrl-r` | This shortcuts opens a palette that lists all the symbols (or functions) in your current file allowing you to fuzzy search and jump lines. |
 
 ## Various Packages
 
