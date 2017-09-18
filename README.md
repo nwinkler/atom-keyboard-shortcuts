@@ -66,6 +66,7 @@ Some general keyboard shortcuts that I use frequently.
 | Select All The Same Words At Once | `cmd-ctrl-g` | `alt-f3`  | `alt-f3` | This shortcut is similar to `cmd-d/ctrl-d` but it selects all the matching words at once.  |
 | Show Symbols Palette | `cmd-r` | `ctrl-r` | `ctrl-r` | This shortcuts opens a palette that lists all the symbols (or functions) in your current file allowing you to fuzzy search and jump lines. |
 | Show auto-completions | `cmd-space` | `ctrl-space` | `ctrl-space` | Show available auto-completions |
+| Fold/Unfold sections of code | `option-cmd-[` <b>and</b> `option-cmd-]` | `ctrl-shift-[` <b>and</b> `ctrl-shift-]` | `ctrl-shift-[` <b>and</b> `ctrl-shift-]` | Fold and Unfold sections of code
 
 ## Various Packages
 
