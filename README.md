@@ -16,7 +16,7 @@ Some general keyboard shortcuts that I use frequently.
 | ------- | -------- | ------- | ----- | ----------- |
 | Preferences/Settings | `cmd-,` | `ctrl-,`  | `ctrl-,` | Opens the Preferences/Settings view |
 | Command Palette | `shift-cmd-p` | `shift-ctrl-p`  | `ctrl-shift-p` | Opens & closes the command palette |
-| Open File (Fuzzy) | `cmd-p` | `ctrl-p`<br/>or<br/>`ctrl-t`  | `ctrl-p` | Opens the Fuzzy Finder palette in which you can search and open files  |
+| Open File (Fuzzy) | `cmd-p` <br/>or<br/> `cmd-t` | `ctrl-p` <br/>or<br/> `ctrl-t`  | `ctrl-p` <br/>or<br/> `ctrl-t` | Opens the Fuzzy Finder palette in which you can search and open files  |
 | Browse Open Files | `cmd-b` | `ctrl-b`  | `ctrl-b` | Browse tabs within the window  |
 | Grammar Selector | `ctrl-shift-l` | `ctrl-shift-l`  | `ctrl-shift-l` | Selects the language the file is in  |
 | Markdown Preview | `ctrl-shift-m` | `ctrl-shift-m`  | `ctrl-shift-m` | Previews the file in the Markdown format |
