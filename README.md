@@ -43,6 +43,7 @@ Some general keyboard shortcuts that I use frequently.
 | Close Window | `shift-cmd-w` | `ctrl-shift-w`  | `ctrl-shift-w` | Closes the currently active editor window  |
 | Split Window | `cmd-k up/down/left/right` | `ctrl-k up/down/left/right` | `ctrl-k up/down/left/right` | Split the currently active tab in one of the four directions |
 | Focus Pane | `cmd-k cmd-up/down/left/right` | `ctrl-k ctrl-up/down/left/right` | `ctrl-k ctrl-up/down/left/right` | Move the focus to the pane in one of the four directions |
+| Toggle full screen | `ctrl-cmd-f` | `F11` | `F11` | Toggle full screen window |
 
 ## Editing
 
