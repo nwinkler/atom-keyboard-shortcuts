@@ -18,6 +18,8 @@ Some general keyboard shortcuts that I use frequently.
 | Command Palette | `shift-cmd-p` | `shift-ctrl-p`  | `ctrl-shift-p` | Opens & closes the command palette |
 | Open File (Fuzzy) | `cmd-p` <br/>or<br/> `cmd-t` | `ctrl-p` <br/>or<br/> `ctrl-t`  | `ctrl-p` <br/>or<br/> `ctrl-t` | Opens the Fuzzy Finder palette in which you can search and open files  |
 | Browse Open Files | `cmd-b` | `ctrl-b`  | `ctrl-b` | Browse tabs within the window  |
+| Previous Tab | `alt-cmd-left` | `ctrl-pageup` | `ctrl-pageup`| Cycles left through open tabs (in the active pane) |
+| Next Tab | `alt-cmd-right` | `ctrl-pagedown` | `ctrl-pagedown` | Cycles right through open tabs (in the active page) |
 | Grammar Selector | `ctrl-shift-l` | `ctrl-shift-l`  | `ctrl-shift-l` | Selects the language the file is in  |
 | Markdown Preview | `ctrl-shift-m` | `ctrl-shift-m`  | `ctrl-shift-m` | Previews the file in the Markdown format |
 | Key Binding Resolver | `cmd-.` | `ctrl-.`  | `ctrl-.` | Shows what keybindings the pressed key combination resolves to |
