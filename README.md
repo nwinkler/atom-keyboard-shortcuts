@@ -25,7 +25,7 @@ Some general keyboard shortcuts that I use frequently.
 | Key Binding Resolver | `cmd-.` | `ctrl-.`  | `ctrl-.` | Shows what keybindings the pressed key combination resolves to |
 | Toggle Tree View | `cmd-k cmd-b`<br/>or<br/>`cmd-\` | `ctrl-k ctrl-b`<br/>or<br/>`ctrl-\` | `ctrl-k ctrl-b`<br/>or<br/>`ctrl-\`| Toggles Atom's file Tree View |
 | Reload Atom | `ctrl-alt-cmd-l` | `alt-ctrl-r` | `alt-ctrl-r` | Reloads the Editor  |
-| Open Link | `ctrl-shift-o` |  |  | Opens up a HTTP or HTTPS link |
+| Open Link | `ctrl-shift-o` |  | N/A | Opens up a HTTP or HTTPS link |
 | Toggle Developer Tools | `alt-cmd-i` | `ctrl-alt-i`  | `ctrl-shift-i` | Opens up the Chrome Developer Tools/Console |
 | Show Available Snippets | `alt-shift-s` | `alt-shift-s`  | `alt-shift-s` | Shows the snippets available to Atom  |
 
@@ -40,7 +40,7 @@ Some general keyboard shortcuts that I use frequently.
 | Open Folder | `cmd-shift-o` | `ctrl-shift-o`  | `ctrl-shift-o` | Shows the _Open Folder_ dialog, which lets you select a folder to add to the editor's Tree View |
 | Save | `cmd-s` | `ctrl-s`  | `ctrl-s` | Saves the currently active file |
 | Save As | `shift-cmd-s` | `ctrl-shift-s`  | `ctrl-shift-s` | Saves the currently active file under a different name  |
-| Save All | `alt-cmd-s` |  |  | Saves all changed files |
+| Save All | `alt-cmd-s` |  | N/A | Saves all changed files |
 | Close Tab | `cmd-w` |  `ctrl-w` | `ctrl-w` | Closes the currently active tab|
 | Close Window | `shift-cmd-w` | `ctrl-shift-w`  | `ctrl-shift-w` | Closes the currently active editor window  |
 | Split Window | `cmd-k up/down/left/right` | `ctrl-k up/down/left/right` | `ctrl-k up/down/left/right` | Split the currently active tab in one of the four directions |
@@ -79,7 +79,7 @@ These are some packages I find useful, and their most useful key bindings. A lis
 | Command | macOS | Windows | Linux | Package |
 | ------- | -------- | ------- | ----- | ----------- |
 | Block Travel up/down | `alt-up`, `alt-down` |  |  | [Block Travel](https://atom.io/packages/block-travel) |
-| Beautify | `ctrl-alt-b` |  |  | [Beautify](https://atom.io/packages/atom-beautify) |
+| Beautify | `ctrl-alt-b` |  | `ctrl-alt-b` | [Beautify](https://atom.io/packages/atom-beautify) |
 | Build Project | `cmd-alt-b` | `ctrl-alt-b` | `ctrl-alt-b` | [Build](https://atom.io/packages/build) |
 | Expand Abbreviation | `shift-cmd-e` | `ctrl-e` | `ctrl-e` | [Emmet](https://atom.io/packages/emmet) |
 | Git Plus Menu | `shift-cmd-h` | `ctrl-shift-h` | `ctrl-shift-h` | [Git Plus](https://atom.io/packages/git-plus) |
@@ -87,7 +87,7 @@ These are some packages I find useful, and their most useful key bindings. A lis
 | Minimap Toggle | `ctrl-k ctrl-m` |  |  | [Minimap](https://atom.io/packages/minimap) |
 | Open File in Browser | `ctrl-alt-m` |  |  | [Open in Browser](https://atom.io/packages/open-in-browser) |
 | Open Project | `ctrl-cmd-p` | `alt-shift-p` | `ctrl-alt-shift-p` | [Project Manager](https://atom.io/packages/project-manager) |
-| Sublime Style Column Selection | `alt-mouse` |  |  | [Sublime Style Column Selection](https://atom.io/packages/Sublime-Style-Column-Selection) |
+| Sublime Style Column Selection | `alt-mouse` |  | `alt-mouse` | [Sublime Style Column Selection](https://atom.io/packages/Sublime-Style-Column-Selection) |
 
 ## apm
 
