@@ -14,63 +14,63 @@ Some general keyboard shortcuts that I use frequently.
 
 | Command | macOS | Windows | Linux | Description |
 | ------- | -------- | ------- | ----- | ----------- |
-| Preferences/Settings | `cmd-,` | `ctrl-,`  | `ctrl-,` | Opens the Preferences/Settings view |
-| Command Palette | `shift-cmd-p` | `shift-ctrl-p`  | `ctrl-shift-p` | Opens & closes the command palette |
-| Open File (Fuzzy) | `cmd-p` <br/>or<br/> `cmd-t` | `ctrl-p` <br/>or<br/> `ctrl-t`  | `ctrl-p` <br/>or<br/> `ctrl-t` | Opens the Fuzzy Finder palette in which you can search and open files  |
-| Browse Open Files | `cmd-b` | `ctrl-b`  | `ctrl-b` | Browse tabs within the window  |
-| Previous Tab | `alt-cmd-left` | `ctrl-pageup` | `ctrl-pageup`| Cycles left through open tabs (in the active pane) |
-| Next Tab | `alt-cmd-right` | `ctrl-pagedown` | `ctrl-pagedown` | Cycles right through open tabs (in the active page) |
-| Grammar Selector | `ctrl-shift-l` | `ctrl-shift-l`  | `ctrl-shift-l` | Selects the language the file is in  |
-| Markdown Preview | `ctrl-shift-m` | `ctrl-shift-m`  | `ctrl-shift-m` | Previews the file in the Markdown format |
-| Key Binding Resolver | `cmd-.` | `ctrl-.`  | `ctrl-.` | Shows what keybindings the pressed key combination resolves to |
-| Toggle Tree View | `cmd-k cmd-b`<br/>or<br/>`cmd-\` | `ctrl-k ctrl-b`<br/>or<br/>`ctrl-\` | `ctrl-k ctrl-b`<br/>or<br/>`ctrl-\`| Toggles Atom's file Tree View |
-| Reload Atom | `ctrl-alt-cmd-l` | `alt-ctrl-r` | `alt-ctrl-r` | Reloads the Editor  |
-| Open Link | `ctrl-shift-o` |  |  | Opens up a HTTP or HTTPS link |
-| Toggle Developer Tools | `alt-cmd-i` | `ctrl-alt-i`  | `ctrl-shift-i` | Opens up the Chrome Developer Tools/Console |
-| Show Available Snippets | `alt-shift-s` | `alt-shift-s`  | `alt-shift-s` | Shows the snippets available to Atom  |
+| Preferences/Settings | <kbd>cmd</kbd><kbd>,</kbd> | <kbd>ctrl</kbd><kbd>,</kbd>  | <kbd>ctrl</kbd><kbd>,</kbd> | Opens the Preferences/Settings view |
+| Command Palette | <kbd>shift</kbd><kbd>cmd</kbd><kbd>p</kbd> | <kbd>shift</kbd><kbd>ctrl</kbd><kbd>p</kbd>  | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>p</kbd> | Opens & closes the command palette |
+| Open File (Fuzzy) | <kbd>cmd</kbd><kbd>p</kbd> <br/>or<br/> <kbd>cmd</kbd><kbd>t</kbd> | <kbd>ctrl</kbd><kbd>p</kbd> <br/>or<br/> <kbd>ctrl</kbd><kbd>t</kbd>  | <kbd>ctrl</kbd><kbd>p</kbd> <br/>or<br/> <kbd>ctrl</kbd><kbd>t</kbd> | Opens the Fuzzy Finder palette in which you can search and open files  |
+| Browse Open Files | <kbd>cmd</kbd><kbd>b</kbd> | <kbd>ctrl</kbd><kbd>b</kbd>  | <kbd>ctrl</kbd><kbd>b</kbd> | Browse tabs within the window  |
+| Previous Tab | <kbd>alt</kbd><kbd>cmd</kbd><kbd>left</kbd> | <kbd>ctrl</kbd><kbd>pageup</kbd> | <kbd>ctrl</kbd><kbd>pageup</kbd>| Cycles left through open tabs (in the active pane) |
+| Next Tab | <kbd>alt</kbd><kbd>cmd</kbd><kbd>right</kbd> | <kbd>ctrl</kbd><kbd>pagedown</kbd> | <kbd>ctrl</kbd><kbd>pagedown</kbd> | Cycles right through open tabs (in the active page) |
+| Grammar Selector | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>l</kbd> | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>l</kbd>  | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>l</kbd> | Selects the language the file is in  |
+| Markdown Preview | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>m</kbd> | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>m</kbd>  | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>m</kbd> | Previews the file in the Markdown format |
+| Key Binding Resolver | <kbd>cmd</kbd><kbd>.</kbd> | <kbd>ctrl</kbd><kbd>.</kbd>  | <kbd>ctrl</kbd><kbd>.</kbd> | Shows what keybindings the pressed key combination resolves to |
+| Toggle Tree View | <kbd>cmd</kbd><kbd>k</kbd> <kbd>cmd</kbd><kbd>b</kbd><br/>or<br/><kbd>cmd</kbd><kbd>\\</kbd> | <kbd>ctrl</kbd><kbd>k</kbd> <kbd>ctrl</kbd><kbd>b</kbd><br/>or<br/><kbd>ctrl</kbd><kbd>\\</kbd> | <kbd>ctrl</kbd><kbd>k</kbd> <kbd>ctrl</kbd><kbd>b</kbd><br/>or<br/><kbd>ctrl</kbd><kbd>\\</kbd>| Toggles Atom's file Tree View |
+| Reload Atom | <kbd>ctrl</kbd><kbd>alt</kbd><kbd>cmd</kbd><kbd>l</kbd> | <kbd>alt</kbd><kbd>ctrl</kbd><kbd>r</kbd> | <kbd>alt</kbd><kbd>ctrl</kbd><kbd>r</kbd> | Reloads the Editor  |
+| Open Link | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>o</kbd> |  |  | Opens up a HTTP or HTTPS link |
+| Toggle Developer Tools | <kbd>alt</kbd><kbd>cmd</kbd><kbd>i</kbd> | <kbd>ctrl</kbd><kbd>alt</kbd><kbd>i</kbd>  | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>i</kbd> | Opens up the Chrome Developer Tools/Console |
+| Show Available Snippets | <kbd>alt</kbd><kbd>shift</kbd><kbd>s</kbd> | <kbd>alt</kbd><kbd>shift</kbd><kbd>s</kbd>  | <kbd>alt</kbd><kbd>shift</kbd><kbd>s</kbd> | Shows the snippets available to Atom  |
 
 
 ## Window Management
 
 | Command | macOS | Windows | Linux | Description |
 | ------- | -------- | ------- | ----- | ----------- |
-| New File | `cmd-n` | `ctrl-n`  | `ctrl-n` | Opens an empty file in a new tab |
-| New Window | `shift-cmd-n` | `ctrl-shift-n`  | `ctrl-shift-n` | Opens a new editor window |
-| Open | `cmd-o` | `ctrl-o`  | `ctrl-o` | Shows the _Open File_ dialog, which lets you select a file to open in the editor |
-| Open Folder | `cmd-shift-o` | `ctrl-shift-o`  | `ctrl-shift-o` | Shows the _Open Folder_ dialog, which lets you select a folder to add to the editor's Tree View |
-| Save | `cmd-s` | `ctrl-s`  | `ctrl-s` | Saves the currently active file |
-| Save As | `shift-cmd-s` | `ctrl-shift-s`  | `ctrl-shift-s` | Saves the currently active file under a different name  |
-| Save All | `alt-cmd-s` |  |  | Saves all changed files |
-| Close Tab | `cmd-w` |  `ctrl-w` | `ctrl-w` | Closes the currently active tab|
-| Close Window | `shift-cmd-w` | `ctrl-shift-w`  | `ctrl-shift-w` | Closes the currently active editor window  |
-| Split Window | `cmd-k up/down/left/right` | `ctrl-k up/down/left/right` | `ctrl-k up/down/left/right` | Split the currently active tab in one of the four directions |
-| Focus Pane | `cmd-k cmd-up/down/left/right` | `ctrl-k ctrl-up/down/left/right` | `ctrl-k ctrl-up/down/left/right` | Move the focus to the pane in one of the four directions |
-| Toggle full screen | `ctrl-cmd-f` | `F11` | `F11` | Toggle full screen window |
+| New File | <kbd>cmd</kbd><kbd>n</kbd> | <kbd>ctrl</kbd><kbd>n</kbd>  | <kbd>ctrl</kbd><kbd>n</kbd> | Opens an empty file in a new tab |
+| New Window | <kbd>shift</kbd><kbd>cmd</kbd><kbd>n</kbd> | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>n</kbd>  | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>n</kbd> | Opens a new editor window |
+| Open | <kbd>cmd</kbd><kbd>o</kbd> | <kbd>ctrl</kbd><kbd>o</kbd>  | <kbd>ctrl</kbd><kbd>o</kbd> | Shows the _Open File_ dialog, which lets you select a file to open in the editor |
+| Open Folder | <kbd>cmd</kbd><kbd>shift</kbd><kbd>o</kbd> | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>o</kbd>  | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>o</kbd> | Shows the _Open Folder_ dialog, which lets you select a folder to add to the editor's Tree View |
+| Save | <kbd>cmd</kbd><kbd>s</kbd> | <kbd>ctrl</kbd><kbd>s</kbd>  | <kbd>ctrl</kbd><kbd>s</kbd> | Saves the currently active file |
+| Save As | <kbd>shift</kbd><kbd>cmd</kbd><kbd>s</kbd> | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>s</kbd>  | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>s</kbd> | Saves the currently active file under a different name  |
+| Save All | <kbd>alt</kbd><kbd>cmd</kbd><kbd>s</kbd> |  |  | Saves all changed files |
+| Close Tab | <kbd>cmd</kbd><kbd>w</kbd> |  <kbd>ctrl</kbd><kbd>w</kbd> | <kbd>ctrl</kbd><kbd>w</kbd> | Closes the currently active tab|
+| Close Window | <kbd>shift</kbd><kbd>cmd</kbd><kbd>w</kbd> | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>w</kbd>  | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>w</kbd> | Closes the currently active editor window  |
+| Split Window | <kbd>cmd</kbd><kbd>k </kbd><kbd>&uarr;</kbd>/<kbd>&darr;</kbd>/<kbd>&larr;</kbd>/<kbd>&rarr;</kbd> | <kbd>ctrl</kbd><kbd>k </kbd><kbd>&uarr;</kbd>/<kbd>&darr;</kbd>/<kbd>&larr;</kbd>/<kbd>&rarr;</kbd> | <kbd>ctrl</kbd><kbd>k </kbd><kbd>&uarr;</kbd>/<kbd>&darr;</kbd>/<kbd>&larr;</kbd>/<kbd>&rarr;</kbd> | Split the currently active tab in one of the four directions |
+| Focus Pane | <kbd>cmd</kbd><kbd>k</kbd><kbd> cmd</kbd><kbd>&uarr;</kbd>/<kbd>&darr;</kbd>/<kbd>&larr;</kbd>/<kbd>&rarr;</kbd> | <kbd>ctrl</kbd><kbd>k</kbd><kbd> ctrl</kbd><kbd>&uarr;</kbd>/<kbd>&darr;</kbd>/<kbd>&larr;</kbd>/<kbd>&rarr;</kbd> | <kbd>ctrl</kbd><kbd>k</kbd><kbd> ctrl</kbd><kbd>&uarr;</kbd>/<kbd>&darr;</kbd>/<kbd>&larr;</kbd>/<kbd>&rarr;</kbd> | Move the focus to the pane in one of the four directions |
+| Toggle full screen | <kbd>ctrl</kbd><kbd>cmd</kbd><kbd>f</kbd> | <kbd>F11</kbd> | <kbd>F11</kbd> | Toggle full screen window |
 
 ## Editing
 
 | Command | macOS | Windows | Linux | Description |
 | ------- | -------- | ------- | ----- | ----------- |
-| Duplicate Lines | `shift-cmd-d` | `ctrl-shift-d` | `ctrl-shift-d` | Duplicates the line of the current cursor position and creates a new line under it with the same contents |
-| Delete Line | `ctrl-shift-k` | `ctrl-shift-k` | `ctrl-shift-k` | Deletes the current line |
-| Move Line Up | `ctrl-cmd-up` | `ctrl-up`  | `ctrl-up` | Moves the contents of the current cursor position up one line. If there is a line above with content, the current lines content will swap with the one above it. |
-| Move Line Down | `ctrl-cmd-down` | `ctrl-down`  | `ctrl-down` | Moves the contents of the current cursor position down one line. If there is a line below with content, the line's content will swap with the one below it. |
-| Find/Replace | `cmd-f` | `ctrl-f`  | `ctrl-f` | Opens up the Find/Replace panel |
-| Find Next | `cmd-g` | `F3`  | `F3` | Toggles forward through the results of the current buffer in the file while the Find/Replace panel is active |
-| Find Previous | `shift-cmd-g` | `shift-F3`  | `shift-F3` | Toggles backward through the results of the current buffer in the file while the Find/Replace panel is active|
-| Find in Project | `shift-cmd-f` | `ctrl-shift-f`  | `ctrl-shift-f` | Opens the Find in Project Panel |
-| Go To Line | `ctrl-g` | `ctrl-g`  | `ctrl-g` | Opens the Go To Line panel |
-| Go To Matching Bracket | `ctrl-m` | `ctrl-m`  | `ctrl-m` | The cursor goes to the matching top bracket that the cursor is ecapsulated in  |
-| Select Line | `cmd-l` | `ctrl-l`  | `ctrl-l` | Selects the entire line the cursor's current position is in |
-| Toggle Comment | `cmd-/` | `ctrl-/`  | `ctrl-/` | Toggles the selected text into a comment of the current grammar |
-| Column Selection | `ctrl-shift-up/down` | `ctrl-alt-up/down` | `shift-alt-up/down`  | Allows to select multiple rows, where the same edit will be applied |
-| Select Same Words | `cmd-d` | `ctrl-d` | `ctrl-d` | If you select a word, and then hit the key combo for this command, Atom will select the next same word for you. Then you can either type directly (which will replace the old words) or use left or right arrow to append things. |
-| Undo Selection | `cmd-u` | `ctrl-u` | `ctrl-u` | This undoes the previous selection, like from Select Same Words. |
-| Select All The Same Words At Once | `cmd-ctrl-g` | `alt-f3`  | `alt-f3` | This shortcut is similar to `cmd-d/ctrl-d` but it selects all the matching words at once.  |
-| Show Symbols Palette | `cmd-r` | `ctrl-r` | `ctrl-r` | This shortcuts opens a palette that lists all the symbols (or functions) in your current file allowing you to fuzzy search and jump lines. |
-| Show auto-completions | `ctrl-space` | `ctrl-space` | `ctrl-space` | Show available auto-completions |
-| Fold/Unfold sections of code | `option-cmd-[` <b>and</b> `option-cmd-]` | `ctrl-shift-[` <b>and</b> `ctrl-shift-]` | `ctrl-shift-[` <b>and</b> `ctrl-shift-]` | Fold and Unfold sections of code
-| Fold/Unfold at a specific indentation level | `cmd-k` <b>then</b> `cmd-(0-9)` | `ctrl-k` <b>then</b> `ctrl-(0-9)` | `ctrl-k` <b>then</b> `ctrl-(0-9)` | Fold/Unfold at a specific indentation level where the number is the indentation depth
+| Duplicate Lines | <kbd>shift</kbd><kbd>cmd</kbd><kbd>d</kbd> | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>d</kbd> | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>d</kbd> | Duplicates the line of the current cursor position and creates a new line under it with the same contents |
+| Delete Line | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>k</kbd> | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>k</kbd> | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>k</kbd> | Deletes the current line |
+| Move Line Up | <kbd>ctrl</kbd><kbd>cmd</kbd><kbd>up</kbd> | <kbd>ctrl</kbd><kbd>up</kbd>  | <kbd>ctrl</kbd><kbd>up</kbd> | Moves the contents of the current cursor position up one line. If there is a line above with content, the current lines content will swap with the one above it. |
+| Move Line Down | <kbd>ctrl</kbd><kbd>cmd</kbd><kbd>down</kbd> | <kbd>ctrl</kbd><kbd>down</kbd>  | <kbd>ctrl</kbd><kbd>down</kbd> | Moves the contents of the current cursor position down one line. If there is a line below with content, the line's content will swap with the one below it. |
+| Find/Replace | <kbd>cmd</kbd><kbd>f</kbd> | <kbd>ctrl</kbd><kbd>f</kbd>  | <kbd>ctrl</kbd><kbd>f</kbd> | Opens up the Find/Replace panel |
+| Find Next | <kbd>cmd</kbd><kbd>g</kbd> | <kbd>F3</kbd>  | <kbd>F3</kbd> | Toggles forward through the results of the current buffer in the file while the Find/Replace panel is active |
+| Find Previous | <kbd>shift</kbd><kbd>cmd</kbd><kbd>g</kbd> | <kbd>shift</kbd><kbd>F3</kbd>  | <kbd>shift</kbd><kbd>F3</kbd> | Toggles backward through the results of the current buffer in the file while the Find/Replace panel is active|
+| Find in Project | <kbd>shift</kbd><kbd>cmd</kbd><kbd>f</kbd> | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>f</kbd>  | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>f</kbd> | Opens the Find in Project Panel |
+| Go To Line | <kbd>ctrl</kbd><kbd>g</kbd> | <kbd>ctrl</kbd><kbd>g</kbd>  | <kbd>ctrl</kbd><kbd>g</kbd> | Opens the Go To Line panel |
+| Go To Matching Bracket | <kbd>ctrl</kbd><kbd>m</kbd> | <kbd>ctrl</kbd><kbd>m</kbd>  | <kbd>ctrl</kbd><kbd>m</kbd> | The cursor goes to the matching top bracket that the cursor is ecapsulated in  |
+| Select Line | <kbd>cmd</kbd><kbd>l</kbd> | <kbd>ctrl</kbd><kbd>l</kbd>  | <kbd>ctrl</kbd><kbd>l</kbd> | Selects the entire line the cursor's current position is in |
+| Toggle Comment | <kbd>cmd</kbd><kbd>/</kbd> | <kbd>ctrl</kbd><kbd>/</kbd>  | <kbd>ctrl</kbd><kbd>/</kbd> | Toggles the selected text into a comment of the current grammar |
+| Column Selection | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>&uarr;</kbd>/<kbd>&darr;</kbd> | <kbd>ctrl</kbd><kbd>alt</kbd><kbd>&uarr;</kbd>/<kbd>&darr;</kbd> | <kbd>shift</kbd><kbd>alt</kbd><kbd>&uarr;</kbd>/<kbd>&darr;</kbd>  | Allows to select multiple rows, where the same edit will be applied |
+| Select Same Words | <kbd>cmd</kbd><kbd>d</kbd> | <kbd>ctrl</kbd><kbd>d</kbd> | <kbd>ctrl</kbd><kbd>d</kbd> | If you select a word, and then hit the key combo for this command, Atom will select the next same word for you. Then you can either type directly (which will replace the old words) or use left or right arrow to append things. |
+| Undo Selection | <kbd>cmd</kbd><kbd>u</kbd> | <kbd>ctrl</kbd><kbd>u</kbd> | <kbd>ctrl</kbd><kbd>u</kbd> | This undoes the previous selection, like from Select Same Words. |
+| Select All The Same Words At Once | <kbd>cmd</kbd><kbd>ctrl</kbd><kbd>g</kbd> | <kbd>alt</kbd><kbd>f3</kbd>  | <kbd>alt</kbd><kbd>f3</kbd> | This shortcut is similar to <kbd>cmd</kbd><kbd>d</kbd>/<kbd>ctrl</kbd><kbd>d</kbd> but it selects all the matching words at once.  |
+| Show Symbols Palette | <kbd>cmd</kbd><kbd>r</kbd> | <kbd>ctrl</kbd><kbd>r</kbd> | <kbd>ctrl</kbd><kbd>r</kbd> | This shortcuts opens a palette that lists all the symbols (or functions) in your current file allowing you to fuzzy search and jump lines. |
+| Show auto-completions | <kbd>ctrl</kbd><kbd>space</kbd> | <kbd>ctrl</kbd><kbd>space</kbd> | <kbd>ctrl</kbd><kbd>space</kbd> | Show available auto-completions |
+| Fold/Unfold sections of code | <kbd>option</kbd><kbd>cmd</kbd><kbd>[</kbd> <b>and</b> <kbd>option</kbd><kbd>cmd</kbd><kbd>]</kbd> | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>[</kbd> <b>and</b> <kbd>ctrl</kbd><kbd>shift</kbd><kbd>]</kbd> | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>[</kbd> <b>and</b> <kbd>ctrl</kbd><kbd>shift</kbd><kbd>]</kbd> | Fold and Unfold sections of code
+| Fold/Unfold at a specific indentation level | <kbd>cmd</kbd><kbd>k</kbd> <b>then</b> <kbd>cmd</kbd>(<kbd>0</kbd>-<kbd>9</kbd>)</kbd> | <kbd>ctrl</kbd><kbd>k</kbd> <b>then</b> <kbd>ctrl</kbd>(<kbd>0</kbd>-<kbd>9</kbd>)</kbd> | <kbd>ctrl</kbd><kbd>k</kbd> <b>then</b> <kbd>ctrl</kbd>(<kbd>0</kbd>-<kbd>9</kbd>)</kbd> | Fold/Unfold at a specific indentation level where the number is the indentation depth
 
 ## Various Packages
 
@@ -78,16 +78,16 @@ These are some packages I find useful, and their most useful key bindings. A lis
 
 | Command | macOS | Windows | Linux | Package |
 | ------- | -------- | ------- | ----- | ----------- |
-| Block Travel up/down | `alt-up`, `alt-down` |  |  | [Block Travel](https://atom.io/packages/block-travel) |
-| Beautify | `ctrl-alt-b` |  |  | [Beautify](https://atom.io/packages/atom-beautify) |
-| Build Project | `cmd-alt-b` | `ctrl-alt-b` | `ctrl-alt-b` | [Build](https://atom.io/packages/build) |
-| Expand Abbreviation | `shift-cmd-e` | `ctrl-e` | `ctrl-e` | [Emmet](https://atom.io/packages/emmet) |
-| Git Plus Menu | `shift-cmd-h` | `ctrl-shift-h` | `ctrl-shift-h` | [Git Plus](https://atom.io/packages/git-plus) |
-| Jumpy | `shift-enter` |  |  | [Jumpy](https://atom.io/packages/jumpy) |
-| Minimap Toggle | `ctrl-k ctrl-m` |  |  | [Minimap](https://atom.io/packages/minimap) |
-| Open File in Browser | `ctrl-alt-m` |  |  | [Open in Browser](https://atom.io/packages/open-in-browser) |
-| Open Project | `ctrl-cmd-p` | `alt-shift-p` | `ctrl-alt-shift-p` | [Project Manager](https://atom.io/packages/project-manager) |
-| Sublime Style Column Selection | `alt-mouse` |  |  | [Sublime Style Column Selection](https://atom.io/packages/Sublime-Style-Column-Selection) |
+| Block Travel up/down | <kbd>alt</kbd><kbd>&uarr;</kbd>, <kbd>alt</kbd><kbd>&darr;</kbd> |  |  | [Block Travel](https://atom.io/packages/block</kbd><kbd>travel) |
+| Beautify | <kbd>ctrl</kbd><kbd>alt</kbd><kbd>b</kbd> |  |  | [Beautify](https://atom.io/packages/atom</kbd><kbd>beautify) |
+| Build Project | <kbd>cmd</kbd><kbd>alt</kbd><kbd>b</kbd> | <kbd>ctrl</kbd><kbd>alt</kbd><kbd>b</kbd> | <kbd>ctrl</kbd><kbd>alt</kbd><kbd>b</kbd> | [Build](https://atom.io/packages/build) |
+| Expand Abbreviation | <kbd>shift</kbd><kbd>cmd</kbd><kbd>e</kbd> | <kbd>ctrl</kbd><kbd>e</kbd> | <kbd>ctrl</kbd><kbd>e</kbd> | [Emmet](https://atom.io/packages/emmet) |
+| Git Plus Menu | <kbd>shift</kbd><kbd>cmd</kbd><kbd>h</kbd> | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>h</kbd> | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>h</kbd> | [Git Plus](https://atom.io/packages/git</kbd><kbd>plus) |
+| Jumpy | <kbd>shift</kbd><kbd>enter</kbd> |  |  | [Jumpy](https://atom.io/packages/jumpy) |
+| Minimap Toggle | <kbd>ctrl</kbd><kbd>k</kbd> <kbd>ctrl</kbd><kbd>m</kbd> |  |  | [Minimap](https://atom.io/packages/minimap) |
+| Open File in Browser | <kbd>ctrl</kbd><kbd>alt</kbd><kbd>m</kbd> |  |  | [Open in Browser](https://atom.io/packages/open</kbd><kbd>in</kbd><kbd>browser) |
+| Open Project | <kbd>ctrl</kbd><kbd>cmd</kbd><kbd>p</kbd> | <kbd>alt</kbd><kbd>shift</kbd><kbd>p</kbd> | <kbd>ctrl</kbd><kbd>alt</kbd><kbd>shift</kbd><kbd>p</kbd> | [Project Manager](https://atom.io/packages/project</kbd><kbd>manager) |
+| Sublime Style Column Selection | <kbd>alt</kbd><kbd>mouse</kbd> |  |  | [Sublime Style Column Selection](https://atom.io/packages/Sublime</kbd><kbd>Style</kbd><kbd>Column</kbd><kbd>Selection) |
 
 ## apm
 
