@@ -78,16 +78,16 @@ These are some packages I find useful, and their most useful key bindings. A lis
 
 | Command | macOS | Windows | Linux | Package |
 | ------- | -------- | ------- | ----- | ----------- |
-| Block Travel up/down | <kbd>alt</kbd><kbd>&uarr;</kbd>, <kbd>alt</kbd><kbd>&darr;</kbd> |  |  | [Block Travel](https://atom.io/packages/block</kbd><kbd>travel) |
-| Beautify | <kbd>ctrl</kbd><kbd>alt</kbd><kbd>b</kbd> |  |  | [Beautify](https://atom.io/packages/atom</kbd><kbd>beautify) |
+| Block Travel up/down | <kbd>alt</kbd><kbd>&uarr;</kbd>, <kbd>alt</kbd><kbd>&darr;</kbd> |  |  | [Block Travel](https://atom.io/packages/block-travel) |
+| Beautify | <kbd>ctrl</kbd><kbd>alt</kbd><kbd>b</kbd> |  |  | [Beautify](https://atom.io/packages/atom-beautify) |
 | Build Project | <kbd>cmd</kbd><kbd>alt</kbd><kbd>b</kbd> | <kbd>ctrl</kbd><kbd>alt</kbd><kbd>b</kbd> | <kbd>ctrl</kbd><kbd>alt</kbd><kbd>b</kbd> | [Build](https://atom.io/packages/build) |
 | Expand Abbreviation | <kbd>shift</kbd><kbd>cmd</kbd><kbd>e</kbd> | <kbd>ctrl</kbd><kbd>e</kbd> | <kbd>ctrl</kbd><kbd>e</kbd> | [Emmet](https://atom.io/packages/emmet) |
-| Git Plus Menu | <kbd>shift</kbd><kbd>cmd</kbd><kbd>h</kbd> | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>h</kbd> | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>h</kbd> | [Git Plus](https://atom.io/packages/git</kbd><kbd>plus) |
+| Git Plus Menu | <kbd>shift</kbd><kbd>cmd</kbd><kbd>h</kbd> | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>h</kbd> | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>h</kbd> | [Git Plus](https://atom.io/packages/git-plus) |
 | Jumpy | <kbd>shift</kbd><kbd>enter</kbd> |  |  | [Jumpy](https://atom.io/packages/jumpy) |
 | Minimap Toggle | <kbd>ctrl</kbd><kbd>k</kbd> <kbd>ctrl</kbd><kbd>m</kbd> |  |  | [Minimap](https://atom.io/packages/minimap) |
-| Open File in Browser | <kbd>ctrl</kbd><kbd>alt</kbd><kbd>m</kbd> |  |  | [Open in Browser](https://atom.io/packages/open</kbd><kbd>in</kbd><kbd>browser) |
-| Open Project | <kbd>ctrl</kbd><kbd>cmd</kbd><kbd>p</kbd> | <kbd>alt</kbd><kbd>shift</kbd><kbd>p</kbd> | <kbd>ctrl</kbd><kbd>alt</kbd><kbd>shift</kbd><kbd>p</kbd> | [Project Manager](https://atom.io/packages/project</kbd><kbd>manager) |
-| Sublime Style Column Selection | <kbd>alt</kbd><kbd>mouse</kbd> |  |  | [Sublime Style Column Selection](https://atom.io/packages/Sublime</kbd><kbd>Style</kbd><kbd>Column</kbd><kbd>Selection) |
+| Open File in Browser | <kbd>ctrl</kbd><kbd>alt</kbd><kbd>m</kbd> |  |  | [Open in Browser](https://atom.io/packages/open-in-browser) |
+| Open Project | <kbd>ctrl</kbd><kbd>cmd</kbd><kbd>p</kbd> | <kbd>alt</kbd><kbd>shift</kbd><kbd>p</kbd> | <kbd>ctrl</kbd><kbd>alt</kbd><kbd>shift</kbd><kbd>p</kbd> | [Project Manager](https://atom.io/packages/project-manager) |
+| Sublime Style Column Selection | <kbd>alt</kbd><kbd>mouse</kbd> |  |  | [Sublime Style Column Selection](https://atom.io/packages/Sublime-Style-Column-Selection) |
 
 ## apm
 
